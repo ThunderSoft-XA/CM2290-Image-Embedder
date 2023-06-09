@@ -1,0 +1,1 @@
+This video demonstrates an Image Embedder project. Run the application on CM2290, Select two images, click "Compare" and wait. The model identifies the semantics themselves and compares them to arrive at a value for semantic similarity. The closer the value is to 1, the closer the meaning expressed by the two images.
